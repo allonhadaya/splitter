@@ -1,0 +1,7 @@
+{
+  "name": "splitter",
+  "dependencies": {
+    "normalize.css": "~3.0.1",
+    "angular": "~1.2.21"
+  }
+}
